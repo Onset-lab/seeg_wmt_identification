@@ -1,4 +1,4 @@
-# Documentation: SEEG White Matter Stimulation Analysis
+# Documentation: SEEG White Matter Tracts Identification
 
 ## Overview
 This repository contains scripts for analyzing stereoelectroencephalography (SEEG) white matter stimulation data. It provides tools to generate bipolar stimulated regions of interest (ROI) and analyze their intersection with white matter bundles.
